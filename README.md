@@ -1,6 +1,6 @@
 # Command-Line-Parser
 
-program that reads user commands from the command prompt and react upon these commands.__
+program that reads user commands from the command prompt and react upon these commands.\
 
 -reverse command: provided arguments in a reverse order.__
 -upper command: print all the provided arguments with all charaters uppercase.__
